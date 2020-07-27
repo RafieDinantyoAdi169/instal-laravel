@@ -1,1 +1,1 @@
-# instal-laravel
+# instal-laravel-ebook
